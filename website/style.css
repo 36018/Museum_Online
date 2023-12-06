@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+main {
+    background-color: skyblue;
+    padding: 10px;
+    border: 4px silver solid;
+    margin: 10px;
+    ;
+}
+
+#Geschiedenis {
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+}
+
+#Quote {
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+}
+
+#Wat-bieden-ze-aan {
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+}
+
+#Contactgegevens {
+    background-color: lightblue;
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+}
+
+#Reviews {
+    background-color: lightblue;
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+
+}
+
+#Openingstijden{
+    background-color: lightblue;
+    background-color: lightblue;
+    padding: 10px; 
+    border: 3px silver solid ;
+    margin: 10px;
+}
