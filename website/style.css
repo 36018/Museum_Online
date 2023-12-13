@@ -27,21 +27,60 @@ main {
 }
 
 #Quote{
+    border-bottom: 1px solid black;
     background-color: lightblue;
     padding: 10px; 
     border: 3px silver solid ;
-    margin: 10px;
+    margin: 4px;
     width: 600px;
 }
 
-#Wat-bieden-ze-aan {
-    background-color: lightblue;
-    padding: 10px; 
-    border: 3px silver solid ;
-    margin: 10px;
-    width: 1000px;
-}
 
+
+
+#objecten-of-mensen {
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+}
+#geleid{
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+}
+#geheel{
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+}
+#beweegt{
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+}
+#maakt{
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+}
+#gezien{
+background-color: lightblue;
+border: 3px silver solid;
+margin: 4px;
+width: 600px;
+padding: 10px;
+
+}
 #Contactgegevens {
     background-color: lightblue;
     background-color: lightblue;
@@ -69,3 +108,9 @@ main {
     margin: 10px;
     width: 190px;
 }
+
+#infoblok{
+    display: flex;
+
+}
+
